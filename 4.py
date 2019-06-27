@@ -5,4 +5,4 @@ c = input('enter a char :')
 if c in alpha : 
     print('Alphabet')
 else:
-    print('No')lower
+    print('No')
