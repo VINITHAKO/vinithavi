@@ -4,8 +4,8 @@ if v>1:
     if v%i==0:
       print("no")
       break
+  else:
+    print("yes")
 else:
-  print("yes")
-else:
-  print("no")
+    print("no")
   
