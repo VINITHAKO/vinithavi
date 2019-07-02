@@ -8,5 +8,5 @@ while a>0:
 if n==h:
  print("yes")
 else:
-print("no")
+ print("no")
   
