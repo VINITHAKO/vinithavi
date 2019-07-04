@@ -1,0 +1,2 @@
+vin=input()
+print(vin)
