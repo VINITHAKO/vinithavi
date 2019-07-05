@@ -1,0 +1,11 @@
+vie=input()
+d=list(vie)
+n=len(vie)
+h=""
+if((n%2)==0):
+   d[int(n/2)]="*"
+   d[int(n/2)-1]="*"
+else:
+   d[int(n/2)]="*"
+h=h.join(d)
+print(h)
