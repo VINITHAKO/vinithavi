@@ -1,6 +1,6 @@
-vin=int(input())
-while vin>0:
- if(vin%10==0):
-  print(vin)
+nin=int(input())
+while nin>0:
+ if(nin%10==0):
+  print(nin)
   break
- vin+=1
+ nin+=1
