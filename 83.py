@@ -1,5 +1,5 @@
-vi,nt,ha=input().split()
-if(nt=='/'):
- print(int(vi)//int(ha))
+ko,wa,sr=input().split()
+if(wa=='/'):
+ print(int(ko)//int(sr))
 else:
- print(int(vi)%int(ha)
+ print(int(ko)%int(sr)
