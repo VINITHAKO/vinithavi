@@ -1,6 +1,6 @@
-v1=int(input())
-v2=list(map(int,input().split()))
-vu=0
-for i in v2:
- vu=vu+i
-print(vu)
+p1=int(input())
+p2=list(map(int,input().split()))
+pu=0
+for i in p2:
+ pu=pu+i
+print(pu)
